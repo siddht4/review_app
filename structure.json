@@ -1,0 +1,15 @@
+{
+	"base_app":"DPC-main",
+	"project_id":"dpc-main",
+	"app-intent":"dpc_main_app.app",
+	"based_on":"test_dpc",
+	"based_on_url":"https://github.com/siddht4/android-testdpc",
+	"app_test_url_1":"",
+	"ui_url":"",
+	"firebase_id":"citric-yen-366206",
+	"to_be_served_on":"kaemm.cloud",
+	"type_1":"ANDROID_APP",
+	"type_2":"PWA",
+	"status":"developing"
+
+}
